@@ -1281,7 +1281,8 @@ meme-time */
 
 .c-section-1 .content-wrap-s,
 .c-section-2 .content-wrap-s,
-.c-section-3 .content-wrap-s {
+.c-section-3 .content-wrap-s,
+.c-section-4 .content-wrap-s {
   display: flex;
   width: 100%;
   max-width: 95%;
@@ -1297,7 +1298,8 @@ meme-time */
 
   .c-section-1 .content-wrap-s,
   .c-section-2 .content-wrap-s,
-  .c-section-3 .content-wrap-s {
+  .c-section-3 .content-wrap-s,
+  .c-section-4 .content-wrap-s {
     flex-direction: row;
     max-width: 1200px;
   }
@@ -1309,13 +1311,15 @@ meme-time */
 
 .c-section-1 .content-wrap-s img,
 .c-section-2 .content-wrap-s img,
-.c-section-3 .content-wrap-s img {
+.c-section-3 .content-wrap-s img,
+.c-section-4 .content-wrap-s img {
   max-width: 100%;
 }
 
 .c-section-1 .content-wrap-s .box-s,
 .c-section-2 .content-wrap-s .box-s,
-.c-section-3 .content-wrap-s .box-s {
+.c-section-3 .content-wrap-s .box-s,
+.c-section-4 .content-wrap-s .box-s {
   flex: 1;
 }
 
